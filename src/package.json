@@ -1,0 +1,30 @@
+{
+  "name": "scrumtastic-srjayhawkfan",
+  "version": "1.0.0",
+  "description": "A web app for SCRUM software development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-srjayhawkfan.git"
+  },
+  "keywords": [
+    "SCRUM",
+    "softtware",
+    "development",
+    "task",
+    "board"
+  ],
+  "author": "Shane Riegodedios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-srjayhawkfan/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-srjayhawkfan#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "sqlite3": "3.1.8"
+  }
+}
